@@ -6,7 +6,7 @@
 <br><br>
 
 ## Classifiers done : -
-- [x] Multinomial Naive Bayes (85% acc.)
+- [x] Multinomial Naive Bayes (83% acc.)
 
 
 
