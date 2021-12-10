@@ -7,9 +7,6 @@
 
 ## Classifiers done : -
 - [x] Multinomial Naive Bayes (85% acc.)
-- [ ] Bernoulli Naive Bayes
-- [ ] Support Vector Machine
-- [ ] KNN Classifier
 
 
 
